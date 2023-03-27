@@ -1,0 +1,15 @@
+.core-values-list{
+    list-style-type: none;
+}
+.core-values-list li h3{
+    margin: 0;
+}
+.core-values-list li p{
+    margin: 0px 0px 10px 30px;
+    padding: 0;
+}
+
+.splat{
+    margin-right: 20px;
+    padding-top: 15px;
+}
